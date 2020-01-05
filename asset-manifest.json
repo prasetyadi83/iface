@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iface/static/css/main.01452e8e.chunk.css",
+    "main.js": "/iface/static/js/main.5da14508.chunk.js",
+    "main.js.map": "/iface/static/js/main.5da14508.chunk.js.map",
+    "runtime-main.js": "/iface/static/js/runtime-main.8925f91c.js",
+    "runtime-main.js.map": "/iface/static/js/runtime-main.8925f91c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/iface/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.be138008.chunk.js": "/iface/static/js/2.be138008.chunk.js",
+    "static/js/2.be138008.chunk.js.map": "/iface/static/js/2.be138008.chunk.js.map",
+    "index.html": "/iface/index.html",
+    "precache-manifest.e95d05d04f6330abfdc143548b5fdc0b.js": "/iface/precache-manifest.e95d05d04f6330abfdc143548b5fdc0b.js",
+    "service-worker.js": "/iface/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/iface/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.01452e8e.chunk.css.map": "/iface/static/css/main.01452e8e.chunk.css.map",
+    "static/js/2.be138008.chunk.js.LICENSE": "/iface/static/js/2.be138008.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8925f91c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.be138008.chunk.js",
+    "static/css/main.01452e8e.chunk.css",
+    "static/js/main.5da14508.chunk.js"
+  ]
+}
