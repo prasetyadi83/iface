@@ -82,7 +82,7 @@ class SignIn extends Component {
                 href="#0"
                 className="f6 link dim black db pointer"
               >
-                Register Now!
+                Belum punya akun? Register sekarang!
               </p>
             </div>
           </div>
